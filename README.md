@@ -10,4 +10,4 @@ In the same way we can do it for any other company using their respective ticker
 In this project I have developed a web-app using streamlit which displays the three datasets on the side-bar and three widely used machine learning classifiers we can alter the classifiers and can look at the accuracy of each classifier on each dataset. 
 
 # Mushroom_app.py
-In this project I have developed a web-app which uses the mushroom dataset and classifies whether that mushroom is edible or not.
+In this project I have developed a web-app using streamlit which uses the mushroom dataset and classifies whether that mushroom is edible or not.
